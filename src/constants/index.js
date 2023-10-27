@@ -164,7 +164,7 @@ import {
     },
     {
       testimonial:
-        "After Subhojit optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Subhojit optimized our website, our traffic increased by 50%. We can't thank him enough!",
       name: "Anita Ma'am",
       designation: "Placement Head",
       company: "Introduction",
